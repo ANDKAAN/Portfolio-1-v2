@@ -1,0 +1,27 @@
+/*Global styles*/
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto slab, sans-serif;
+    font-size: 16px;
+    line-height: 1.5px;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    font-family: Bebas neue, sans-serif;
+    text-transform: uppercase;
+    color: floralwhite;
+    
+}
+
+ul {
+    list-style: none;
+}
