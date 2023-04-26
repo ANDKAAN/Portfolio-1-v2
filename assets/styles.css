@@ -11,7 +11,7 @@ body {
     font-family: Roboto slab, sans-serif;
     font-size: 16px;
     line-height: 1.5px;
-    color: #333;
+    color: #332c23;
 }
 
 a {
@@ -51,7 +51,7 @@ h1 {
     align-items: center;
     letter-spacing: 3px;
     text-transform: uppercase;
-    color: crimson;
+    color: #b1ddf1;
     
 }
 
@@ -68,7 +68,8 @@ nav ul {
 }
 
 nav li {
-    margin-left: 10px;
+    margin-left: 50px;
+    padding-top: 12px;
 
 }
 
@@ -96,4 +97,38 @@ nav a:hover {
     to {
         transform: scale(1);
     }
+}
+
+/*Main style*/
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 20px;
+    margin: 40px 0;
+    background-color: #9f87af;
+    box-shadow: 0 0 10px; rgba(0,0,0,0.3);
+}
+section img {
+    max-width: 40%;
+    margin-right: 20px;
+}
+
+section div {
+    max-width: 50%;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+section ul li {
+    margin-bottom: 10px;
 }
