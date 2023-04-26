@@ -133,3 +133,24 @@ section h2 {
 section ul li {
     margin-bottom: 10px;
 }
+
+/*Form style*/
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);  
+}
+
