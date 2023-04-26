@@ -59,8 +59,8 @@ h1 {
 .logo img {
     height: 50px;
     margin-right: 10px;
-    border-radius: 200%;
-}
+    border-radius: 20%;
+0}
 
 nav ul {
     display: flex;
@@ -116,10 +116,13 @@ section {
     background-color: #332c23;
     color: floralwhite;
     box-shadow: 0 0 10px; rgba(0,0,0,0.3);
+    border-radius: 2%;
+    
 }
 section img {
     max-width: 40%;
     margin-right: 20px;
+    border-radius: 5%;
 }
 
 section div {
@@ -164,3 +167,14 @@ input[type="submit"] {
     background-color: #aca5a5;
   }
 
+
+/*Footer style*/
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #332c23;
+    color: floralwhite;
+}
