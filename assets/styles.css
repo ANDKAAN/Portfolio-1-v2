@@ -19,6 +19,8 @@ a {
     font-family: Bebas neue, sans-serif;
     text-transform: uppercase;
     color: floralwhite;
+    line-height: 25px;
+    font-size: 80%;
     
 }
 
@@ -61,6 +63,10 @@ h1 {
 
 nev ul {
     display: flex;
+}
+
+nav li {
+    margin-left: 10px;
 }
 
 nav a {
