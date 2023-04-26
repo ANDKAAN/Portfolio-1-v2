@@ -13,8 +13,9 @@
 body {
     font-family: Roboto slab, sans-serif;
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 1.5rm;
     color: #332c23;
+    background-color :rgba(0,0,0,0.1) ;
 }
 
 a {
@@ -134,6 +135,9 @@ section div {
 
 section h2 {
     margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #b1ddf1;
+    
     
     
 }
