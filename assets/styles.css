@@ -113,7 +113,8 @@ section {
     align-items: center;
     padding: 40px 20px;
     margin: 40px 0;
-    background-color: #9f87af;
+    background-color: #332c23;
+    color: floralwhite;
     box-shadow: 0 0 10px; rgba(0,0,0,0.3);
 }
 section img {
