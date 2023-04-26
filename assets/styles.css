@@ -154,3 +154,13 @@ input, textarea {
     box-shadow: 0 0 5px rgba(0,0,0,0.1);  
 }
 
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #aca5a5;
+  }
+
