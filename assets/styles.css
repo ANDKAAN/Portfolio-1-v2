@@ -78,7 +78,7 @@ nav li {
 }
 
 nav a {
-    transition: time 0,3s;
+    transition:  0,3s;
 }
 nav a:hover {
     color: #aca5a5;
@@ -118,7 +118,7 @@ section {
     margin: 40px 10px;
     background-color: #332c23;
     color: floralwhite;
-    box-shadow: 0 0 10px; rgba:(0.0.0.0,3);
+    box-shadow: 0 0 10px; rgba:(0.0.0.0.3);
     border-radius: 2%;
     
 }
