@@ -177,6 +177,12 @@ input[type="submit"] {
     background-color: floralwhite;
   }
 
+  /*Back button*/
+
+  .back-button{
+    font-size: 160%;
+  }
+
 
 /*Footer style*/
 
